@@ -9,3 +9,6 @@ sentence-transformers
 opencv-python
 matplotlib
 easyocr
+streamlit
+fpdf
+
