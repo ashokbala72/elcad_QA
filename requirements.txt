@@ -1,0 +1,11 @@
+streamlit
+openai
+python-dotenv
+PyMuPDF
+Pillow
+transformers
+torch
+sentence-transformers
+opencv-python
+matplotlib
+easyocr
