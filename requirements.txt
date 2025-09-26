@@ -11,4 +11,4 @@ matplotlib
 easyocr
 streamlit
 fpdf
-
+ezdxf
